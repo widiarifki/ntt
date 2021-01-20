@@ -104,6 +104,6 @@ class LoginActivity : AppCompatActivity() {
 }
 ```
 ## Screenshot
-![Screenshot 1](http://github.com/widiarifki/ss1.png)
-![Screenshot 2](http://github.com/widiarifki/ss2.png)
+![Screenshot 1](http://github.com/widiarifki/ntt/blob/main/ss1.png)
+![Screenshot 2](http://github.com/widiarifki/ntt/blob/main/ss2.png)
 
