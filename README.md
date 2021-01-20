@@ -59,6 +59,17 @@ Goal: Create a functional login page
 ## LoginActivity.kt
 
 ```bash
+package id.widiarifki.ntt
+
+import android.content.Intent
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+import android.view.View
+import android.widget.EditText
+import android.widget.Toast
+import id.widiarifki.ntt.databinding.ActivityLoginBinding
+import id.widiarifki.ntt.model.User
+
 class LoginActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityLoginBinding
@@ -104,6 +115,6 @@ class LoginActivity : AppCompatActivity() {
 }
 ```
 ## Screenshot
-![Screenshot 1](http://github.com/widiarifki/ntt/blob/main/ss1.png)
-![Screenshot 2](http://github.com/widiarifki/ntt/blob/main/ss2.png)
+![Screenshot 1](https://raw.githubusercontent.com/widiarifki/ntt/main/ss1.png)
+![Screenshot 2](https://raw.githubusercontent.com/widiarifki/ntt/main/ss2.png)
 
